@@ -3,6 +3,8 @@
       {
         "employeeId": 237261,
         "fullname": "Tino (Long) Phan",
+        "firstname": "Tino",
+        "lastname": "Phan",
         "email": "long.phan@cyberlogitec.com",
         "password": "Test@123",
         "avatar": "https://firebasestorage.googleapis.com/v0/b/uploadingfile-73c77.appspot.com/o/Tino.jpg?alt=media&token=0e400ce8-78eb-40c4-a791-dd288e291c39"
@@ -10,6 +12,8 @@
       {
         "employeeId": 247004,
         "fullname": "Hazel (Ha) Anh",
+        "firstname": "Hazel",
+        "lastname": "Anh",
         "email": "ha.anh@cyberlogitec.com",
         "password": "Test@123",
         "avatar": "https://firebasestorage.googleapis.com/v0/b/uploadingfile-73c77.appspot.com/o/Hazel.jpg?alt=media&token=6e81b572-3273-4f5a-a26c-4c796cf237e8"
@@ -17,13 +21,17 @@
       {
         "employeeId": 247265,
         "fullname": "Jin (Nhu) Ngo",
+        "firstname": "Jin",
+        "lastname": "Ngo",
         "email": "nhu.ntt@cyberlogitec.com",
         "password": "Test@123",
         "avatar": "https://firebasestorage.googleapis.com/v0/b/uploadingfile-73c77.appspot.com/o/Jin.png?alt=media&token=793cd636-a216-4fb9-abca-d66866b5e7d6"
       },
       {
         "employeeId": 213808,
-        "fullname": "Tai (Leo) Pham",
+        "fullname": "Leo (Tai) Pham",
+        "firstname": "Leo",
+        "lastname": "Pham",
         "email": "tai.pham@cyberlogitec.com",
         "password": "Test@123",
         "avatar": "https://firebasestorage.googleapis.com/v0/b/uploadingfile-73c77.appspot.com/o/Leo.jpg?alt=media&token=3a417ea6-5928-4dbe-aa34-48051aab795c"
@@ -31,6 +39,8 @@
       {
         "employeeId": 247233,
         "fullname": "Xander (Huy) Bui",
+        "firstname": "Xander",
+        "lastname": "Bui",
         "email": "huy.ba@cyberlogitec.com",
         "password": "Test@123",
         "avatar": "https://firebasestorage.googleapis.com/v0/b/uploadingfile-73c77.appspot.com/o/Xander.png?alt=media&token=ce212471-cf5d-447c-92ac-00c9bb3d7feb"
@@ -38,6 +48,8 @@
       {
         "employeeId": 237093,
         "fullname": "Hilary (Hien) Nguyen",
+        "firstname": "Hilary",
+        "lastname": "Nguyen",
         "email": "hien.nguyenthithuy@cyberlogitec.com",
         "password": "Test@123",
         "avatar": "https://firebasestorage.googleapis.com/v0/b/uploadingfile-73c77.appspot.com/o/Hilary.JPEG?alt=media&token=cc25c609-f82d-4623-9e01-c31d49742fdb"
